@@ -1,6 +1,6 @@
-= https://isaqb.org[iSAQB] PDF Theme
+= https://nextnormal.academy[nextnormal.academy] PDF Theme
 
-This repository contains the *PDF theme* for iSAQB curricula and other official documents.
+This repository contains the *PDF theme* for nextnormal.academy curricula and other official documents.
 
 It contains <<copyrighted,copyrighted work>>.
 
@@ -14,7 +14,7 @@ The pdf theme (aka: _style_) can (and should) be used when converting documents 
 
 Add this repository as a submodule to your git repository containing by using the command:
 
-   git submodule add https://github.com/isaqb-org/pdf-theme
+   git submodule add https://github.com/nextnormalacademy/pdf-theme
 
 *OR*
 
@@ -29,7 +29,7 @@ from AsciidoctorTask (assuming that the folder `pdf-theme` is in your root folde
 ```
       'pdf-stylesdir'    : '../pdf-theme/themes',
       'pdf-fontsdir'     : '../pdf-theme/fonts',
-      'pdf-style'        : 'isaqb'
+      'pdf-style'        : 'nextnormal.academy'
 ```
 
 
@@ -71,5 +71,5 @@ THE iSAQB GRAPHICS ARE COPYRIGHTED.
 
 The style (without the iSAQB logo) may be used freely.
 
-All parts of this theme (style, dimensions, theme, definitions and all other) come *without any guarantee* - please use on your own risk.  
+All parts of this theme (style, dimensions, theme, definitions and all other) come *without any guarantee* - please use on your own risk.
  
